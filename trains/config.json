@@ -1,0 +1,8 @@
+{
+    "model_name": "auto_stf",
+    "input_dim": 73,
+    "output_dim": 6,
+    "batch_size": 128,
+    "epochs": 250,
+    "dataset_path": "./data"
+}
